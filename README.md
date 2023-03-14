@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <br>
 
   <a href="https://github.com/jeffreytse/jekyll-theme-yat">
@@ -197,4 +197,4 @@ This theme is licensed under the [MIT license](https://opensource.org/licenses/m
 [jekyll-seo-tag]: https://github.com/jekyll/jekyll-seo-tag
 [jekyll-sitemap]: https://github.com/jekyll/jekyll-sitemap
 [jekyll-feed]: https://github.com/jekyll/jekyll-feed
-[highlight-js]: https://github.com/highlightjs/highlight.js
+[highlight-js]: https://github.com/highlightjs/highlight.js -->
